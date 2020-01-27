@@ -2,7 +2,7 @@
  * Author: Alex Yu
  * License: CC0
  * Source: CppReference
- * Description: Random number generation (first include random, chrono)
+ * Description: Random (include random, chrono)
  * Status: tested
  */
 mt19937 rng(

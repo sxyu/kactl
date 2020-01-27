@@ -2,7 +2,7 @@
  * Author: Alex Yu
  * License: CC0
  * Source: E-Maxx
- * Description: LCA with binary lifting nlogn preprocess(r); logn lca(u,v)
+ * Description: LCA with binary lifting. O(nlogn) preprocess(r); O(logn) lca(u,v)
  * Status: tested
  */
 int n, l;
